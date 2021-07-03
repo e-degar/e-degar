@@ -7,7 +7,7 @@
 
 
 <a>
-    <img height="150em" src="Assets/doge.gif"/>
+    <img height="300em" src="Assets/doge.gif"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edesoares&hide=tex&layout=compact&theme=gotham"/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/edesoares/">
