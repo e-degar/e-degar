@@ -7,10 +7,10 @@
 
 
 <a>
-    <img height="250em" src="Assets/doge.gif"/>
+    <img height="160em" src="Assets/doge.gif"/>
 </a>
 <a>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edesoares&hide=tex&layout=compact&theme=gotham"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edesoares&hide=tex&layout=compact&theme=gotham"/>
 </a>
 <a target="_blank" href="https://www.linkedin.com/in/edesoares/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
