@@ -1,16 +1,20 @@
-### Hi there 👋
+### Henlo
 
-<!--
-**edesoares/edesoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pt-br:** Desenvolvedor e Historiador. Apreciador de salgadinho barato.
+**en:** Developer and Historian. Cheap snacks sommelier.
 
-Here are some ideas to get you started:
+[Saiba mais | Know more](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a>
+    <img height="250em" src="Assets/doge.gif"/>
+</a>
+<a>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edesoares&hide=tex&layout=compact&theme=gotham"/>
+</a>
+<a target="_blank" href="https://www.linkedin.com/in/edesoares/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a target="_blank" href="mailto:edemarinho@outlook.com">
+    <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+</a>
