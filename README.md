@@ -3,7 +3,7 @@
 **pt-br:** Desenvolvedor e Historiador. Apreciador de salgadinho barato.
 **en:** Developer and Historian. Cheap snacks sommelier.
 
-[Saiba mais | Know more](https://www.youtube.com/watch?v=dQw4w9WgXcQ){:target="_blank"}
+[Saiba mais | Know more](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 <a>
