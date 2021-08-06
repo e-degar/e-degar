@@ -8,9 +8,9 @@
 
 <a>
     <img height="300em" src="Assets/doge.gif"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edesoares&hide=tex&layout=compact&theme=gotham"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oieusouoede&hide=tex&layout=compact&theme=gotham"/>
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/edesoares/">
+<a target="_blank" href="https://www.linkedin.com/in/oieusouoede/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a target="_blank" href="mailto:edemarinho@outlook.com">
